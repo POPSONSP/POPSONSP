@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @POPSONSP my name is Popoola Sheriff
-- 👀 I’m interested in anything tech related, i am a Tech enthusiast
-- 🌱 I’m currently learning  PYTHON, NUMPY AND DJANGO, TensorFlow, Scikit-Learn
+- 👀I'm a data enthusiast and analytical problem-solver with a passion for transforming complex datasets into actionable insights
+- 🌱  I combine technical expertise with creative problem-solving to drive business outcomes. 
 - 💞️ I’m looking to collaborate on Tech related projects
 - 📫 How to reach me Via mail Popoolasherif64@gmail.com
   
